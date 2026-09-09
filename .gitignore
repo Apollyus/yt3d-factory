@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+server/cache/
+server/.venv/
+worker/output/
+worker/.venv/
+*.blend1
